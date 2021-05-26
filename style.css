@@ -1,0 +1,11 @@
+/* 
+    Theme name: NEWTHEME
+    Version: 1.0 
+    Description: Este es mi primer tema creado custom para Wordpress
+    AutHor: Anthony Villarroel
+    License: GNU General Public License v3 or Later
+    License URL: https://www.gnu.org/licenses/gpl-3.0.html
+*/
+body{
+    background-color: black;
+}
