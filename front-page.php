@@ -1,9 +1,9 @@
 <?php get_header(); ?>
-<main>
+<main class="bg-green-500">
 <div class="flex items-center space-x-10">
     <div class="w-1/12" >
         <img 
-            class="rounded-full"
+            class="rounded-full "
             src="<?php echo get_template_directory_uri()?>/assets/img/anthony.jpg" 
             alt="imagen de perfil anthony">
     </div>
@@ -22,7 +22,7 @@
     </div>
     <div class="w-6/12">
         <b>Intereses</b>
-        <p>Tengo varios intereses, pero los mas destacados son, ver o jugar futbol, mi equipo favorito es el FC Barcelonar, ademas de jugar videojugos ya sea en el celular, computador o alguna otra plataforma </p>
+        <p >Tengo varios intereses, pero los mas destacados son, ver o jugar futbol, mi equipo favorito es el FC Barcelonar, ademas de jugar videojugos ya sea en el celular, computador o alguna otra plataforma </p>
     </div>
 </div>
 
